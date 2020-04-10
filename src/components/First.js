@@ -38,7 +38,7 @@ const Wrapper = styled.div`
 
   span {
     color: #fff;
-    font-size: 40px;
+    font-size: 20px;
   }
 
   section {

@@ -27,7 +27,7 @@ const Wrapper = styled.div`
   height: 50px;
   display: flex;
   align-items: center;
-  background-color: #f5f5f5;
+  background-color: #efefef;
 
   ul {
     margin: 0;

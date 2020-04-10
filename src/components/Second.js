@@ -40,7 +40,7 @@ const Wrapper = styled.div`
   }
 
   section {
-    color: #fff;
+    color: yellow;
   }
 `;
 
